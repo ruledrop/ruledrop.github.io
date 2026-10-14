@@ -1,0 +1,17 @@
+# RuleDrop
+
+> Drop-in rules files that make AI coding agents (Cursor, Claude Code, GitHub Copilot, OpenAI Codex, any AGENTS.md tool) follow current stack conventions and security basics. Each pack includes Cursor .mdc rules, AGENTS.md, CLAUDE.md and Copilot instructions.
+
+## Products
+- [Free Starter Pack](https://github.com/ruledrop/starter-pack): core always-on Cursor rule + AGENTS.md. MIT license. Free.
+- [Next.js + Supabase Pack](https://ruledrop.github.io/packs/nextjs/): Stop your agent from leaking keys and shipping broken auth. $19 USD.
+- [Shopify Pack](https://ruledrop.github.io/packs/shopify/): Online Store 2.0 themes and modern apps, done right. $15 USD.
+- [Godot 4 Pack](https://ruledrop.github.io/packs/godot/): No more Godot 3 code from your AI. $12 USD.
+- All-3 Bundle: every pack plus free updates. $35 USD.
+
+## Info
+- [FAQ](https://ruledrop.github.io/faq/)
+- [Sponsors](https://ruledrop.github.io/sponsors/)
+- [Full details](https://ruledrop.github.io/llms-full.txt)
+
+Status: paid packs launching soon (checkout not yet open).

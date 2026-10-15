@@ -1,6 +1,6 @@
-# RuleDrop (full)
+# ShipSafe (full)
 
-> Drop-in rules files that make AI coding agents (Cursor, Claude Code, GitHub Copilot, OpenAI Codex, any AGENTS.md tool) follow current stack conventions and security basics. Each pack includes Cursor .mdc rules, AGENTS.md, CLAUDE.md and Copilot instructions.
+> Drop-in rules that keep vibe-coded apps ship-safe. Ready-made instruction files for Cursor, Claude Code, GitHub Copilot, OpenAI Codex and any AGENTS.md tool. Formerly RuleDrop.
 
 ## Products
 - [Free Starter Pack](https://github.com/ruledrop/starter-pack): core always-on Cursor rule + AGENTS.md. MIT license. Free.
@@ -13,6 +13,7 @@
 - [FAQ](https://ruledrop.github.io/faq/)
 - [Sponsors](https://ruledrop.github.io/sponsors/)
 - [Full details](https://ruledrop.github.io/llms-full.txt)
+- Site: https://ruledrop.github.io (GitHub: github.com/ruledrop for now)
 
 Status: paid packs launching soon (checkout not yet open).
 
@@ -54,7 +55,7 @@ Covers:
 ## FAQ
 
 **What is an agent rules pack?**
-A set of ready-made instruction files (Cursor .mdc rules, AGENTS.md, CLAUDE.md and GitHub Copilot instructions) that tell AI coding agents how to write code for a specific stack.
+A set of ready-made instruction files (Cursor .mdc rules, AGENTS.md, CLAUDE.md and GitHub Copilot instructions) that tell AI coding agents how to write code for a specific stack — so vibe-coded apps stay ship-safe.
 
 **Which tools does it work with?**
 Cursor, Claude Code, GitHub Copilot (chat, cloud agent and code review), OpenAI Codex, Jules, Amp and any tool that reads AGENTS.md.
@@ -70,3 +71,6 @@ They are checked against official docs (Cursor, GitHub Copilot, Next.js 16, Supa
 
 **When can I buy the paid packs?**
 Very soon. Join the newsletter and you'll hear first, with a launch discount.
+
+**Wasn't this called RuleDrop?**
+Yes. We rebranded to ShipSafe. Same packs, same free starter, same mission — keep vibe-coded apps ship-safe.

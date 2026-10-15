@@ -1,0 +1,76 @@
+# ShipSafe (full)
+
+> Drop-in rules that keep vibe-coded apps ship-safe. Ready-made instruction files for Cursor, Claude Code, GitHub Copilot, OpenAI Codex and any AGENTS.md tool. Formerly RuleDrop.
+
+## Products
+- [Free Starter Pack](https://github.com/ruledrop/starter-pack): core always-on Cursor rule + AGENTS.md. MIT license. Free.
+- [Next.js + Supabase Pack](https://ruledrop.github.io/packs/nextjs/): Stop your agent from leaking keys and shipping broken auth. $19 USD.
+- [Shopify Pack](https://ruledrop.github.io/packs/shopify/): Online Store 2.0 themes and modern apps, done right. $15 USD.
+- [Godot 4 Pack](https://ruledrop.github.io/packs/godot/): No more Godot 3 code from your AI. $12 USD.
+- All-3 Bundle: every pack plus free updates. $35 USD.
+
+## Info
+- [FAQ](https://ruledrop.github.io/faq/)
+- [Sponsors](https://ruledrop.github.io/sponsors/)
+- [Full details](https://ruledrop.github.io/llms-full.txt)
+- Site: https://ruledrop.github.io (GitHub: github.com/ruledrop for now)
+
+Status: paid packs launching soon (checkout not yet open).
+
+## Pack details
+
+### Next.js + Supabase Pack ($19)
+Stop your agent from leaking keys and shipping broken auth. Rules for Next.js 16 App Router, Server Components, strict TypeScript, Tailwind, and Supabase with Row Level Security, @supabase/ssr, proxy.ts session refresh and getClaims(), plus a security checklist built in.
+
+Covers:
+- Server Components by default, Server Actions with auth checks
+- Next.js 16 proxy.ts + Supabase getClaims()
+- RLS on every table; service_role stays server-only
+- No secrets in NEXT_PUBLIC_*, env files out of git
+- Zod validation, webhook signatures, rate limits
+- Runs ESLint, tsc and build before finishing
+
+### Shopify Pack ($15)
+Make your agent write Online Store 2.0 themes and modern apps the right way: sections and blocks, render instead of include, translations, responsive images, the GraphQL Admin API, the React Router app template, theme app extensions, Functions, and webhook HMAC checks. Fewer Theme Check errors and no leaked tokens.
+
+Covers:
+- JSON templates, sections, blocks and schemas
+- render not include; | t translations
+- image_url + image_tag responsive images
+- React Router 7 app template + Polaris web components
+- GraphQL Admin API, pinned version, minimal scopes
+- HMAC-verified webhooks, GDPR webhooks, token rotation
+
+### Godot 4 Pack ($12)
+Tired of your AI writing Godot 3 code? This pack keeps agents on Godot 4 APIs (current: 4.7), typed GDScript, the official style guide, and clean scene structure ("call down, signal up"). Built for jam devs and indies who vibe-code games.
+
+Covers:
+- Blocks Godot 3 APIs: yield, KinematicBody, instance()
+- Static typing and official naming and script order
+- Composable scenes, signals up, few autoloads
+- Resources for game data, Input Map actions
+- Physics in _physics_process with delta
+- Leaves .godot/ and scene UIDs alone
+
+## FAQ
+
+**What is an agent rules pack?**
+A set of ready-made instruction files (Cursor .mdc rules, AGENTS.md, CLAUDE.md and GitHub Copilot instructions) that tell AI coding agents how to write code for a specific stack — so vibe-coded apps stay ship-safe.
+
+**Which tools does it work with?**
+Cursor, Claude Code, GitHub Copilot (chat, cloud agent and code review), OpenAI Codex, Jules, Amp and any tool that reads AGENTS.md.
+
+**How do I install a pack?**
+Unzip it into your project root. Each pack's README shows which files go with which tool.
+
+**Is there a free version?**
+Yes. The Starter Pack (a core Cursor rule plus AGENTS.md) is free and MIT-licensed on GitHub.
+
+**Are the rules up to date?**
+They are checked against official docs (Cursor, GitHub Copilot, Next.js 16, Supabase SSR, Godot 4.7, Shopify CLI) as of October 2026. Bundle buyers get free updates.
+
+**When can I buy the paid packs?**
+Very soon. Join the newsletter and you'll hear first, with a launch discount.
+
+**Wasn't this called RuleDrop?**
+Yes. We rebranded to ShipSafe. Same packs, same free starter, same mission — keep vibe-coded apps ship-safe.

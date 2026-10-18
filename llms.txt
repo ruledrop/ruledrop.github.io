@@ -1,4 +1,4 @@
-# ShipSafe
+# ShipSafe Packs
 
 > Drop-in rules that keep vibe-coded apps ship-safe. Ready-made instruction files for Cursor, Claude Code, GitHub Copilot, OpenAI Codex and any AGENTS.md tool. Formerly RuleDrop.
 

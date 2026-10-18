@@ -1,4 +1,4 @@
-# ShipSafe (full)
+# ShipSafe Packs (full)
 
 > Drop-in rules that keep vibe-coded apps ship-safe. Ready-made instruction files for Cursor, Claude Code, GitHub Copilot, OpenAI Codex and any AGENTS.md tool. Formerly RuleDrop.
 
@@ -73,4 +73,4 @@ They are checked against official docs (Cursor, GitHub Copilot, Next.js 16, Supa
 Very soon. Join the newsletter and you'll hear first, with a launch discount.
 
 **Wasn't this called RuleDrop?**
-Yes. We rebranded to ShipSafe. Same packs, same free starter, same mission — keep vibe-coded apps ship-safe.
+Yes. We rebranded to ShipSafe Packs. Same packs, same free starter, same mission — keep vibe-coded apps ship-safe.
